@@ -1,6 +1,6 @@
 {
   "name": "@ceol/m3-colors-tailwind",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": " Material 3 provides with dynamic color palette and this cli command will help convert the color palette into Tailwind colors to be added into the tailwind config file.",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,6 @@
   "dependencies": {
     "node-getopt": "^0.3.2"
   },
-  "files": [
-    "build/lib"
-  ],
   "directories": {
       "lib": "./build/lib"
   },
