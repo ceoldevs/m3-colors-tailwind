@@ -12,9 +12,9 @@ Installing is very easy. All you need to do is to run the
 below command
 
 ```bash
-npm install m3-colors-tailwind -g 
+npm install @ceol/m3-colors-tailwind -g 
 # or
-yarn global add m3-colors-tailwind
+yarn global add @ceol/m3-colors-tailwind
 ```
 
 Now, you are all set for using the command.
